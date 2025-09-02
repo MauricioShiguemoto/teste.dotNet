@@ -1,0 +1,11 @@
+
+SQL que utilizei para teste direto no banco de dados
+
+use master;
+use LivrariaDb;
+DROP DATABASE LivrariaDb;
+
+select * from Books;
+
+INSERT INTO Books (Title, Author, Genre, Price, StockQuantity)
+VALUES ('teste', 'mauricio', 'masc', '2.8', 1);

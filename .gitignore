@@ -1,0 +1,44 @@
+# Compiled source files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Build results
+[Ll]og/
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Entity Framework migrations
+Migrations/
+
+# ASP.NET temp files
+*.dbmdl
+*.pdb
+
+# Configuration files
+appsettings.*.json
+
+# IIS Express
+.vs/
+*.vspscc
+
+# Test results
+TestResults/
+*.trx
+
+# Others
+*.DS_Store
+*.idea/
+*.swp
